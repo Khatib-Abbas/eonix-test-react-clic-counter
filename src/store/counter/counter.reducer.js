@@ -1,3 +1,4 @@
+// Pure functions that changes the states of the reducer
 import {COUNTER_ACTION_TYPES} from "./counter.types";
 
 const INITIAL_STATE = {

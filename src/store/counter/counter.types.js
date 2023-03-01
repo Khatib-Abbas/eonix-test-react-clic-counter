@@ -1,3 +1,4 @@
+// TYPES for actions counter
 export const COUNTER_ACTION_TYPES = {
     SET_ADD_COUNTER: "SET_ADD_COUNTER",
     SET_MINUS_COUNTER: "SET_MINUS_COUNTER"
